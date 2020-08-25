@@ -1,0 +1,24 @@
+body {
+    background-image: url('https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif');
+    background-size: contain;
+
+    height: 100%;
+    padding:0;
+    margin:0;
+}
+
+
+.phrase {
+    height: 14em;
+    width: 250px;
+    background: white;
+    text-align: center;
+    margin-left: 20em;
+    margin-right: 100px;
+    margin-top: 500px;
+}
+
+#pp {
+    font-family: 'Didact Gothic';
+    font-size: 3em;
+}
