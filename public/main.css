@@ -13,7 +13,7 @@ body {
     width: 250px;
     background: white;
     text-align: center;
-    margin-left: 20em;
+    margin-left: 50em;
     margin-right: 100px;
     margin-top: 500px;
 }
@@ -21,4 +21,11 @@ body {
 #pp {
     font-family: 'Didact Gothic';
     font-size: 3em;
+}
+
+.pic {
+    height: 14em;
+    width: 10em;
+    margin-left: 5em;
+    margin-top: 10em;
 }
